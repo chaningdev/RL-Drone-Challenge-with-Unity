@@ -3,7 +3,7 @@
 
 **TEAM**: NewBe ([chaningdev](https://github.com/chaningdev), [20170375](https://github.com/20170375))
 
-<img width="1680" alt="main" src="https://user-images.githubusercontent.com/62216628/140608027-bb7cf7d0-ec9e-4a0c-b81a-f89518d1262a.png">
+[<img width="1680" alt="main" src="https://user-images.githubusercontent.com/62216628/140608027-bb7cf7d0-ec9e-4a0c-b81a-f89518d1262a.png">](https://github.com/reinforcement-learning-kr/2021_RLKR_Drone_Delivery_Challenge_with_Unity)
 
     ml-agents: 0.27.0
 <hr>
