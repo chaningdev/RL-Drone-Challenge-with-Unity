@@ -19,6 +19,8 @@
 ## Test reports
 + [Google Sheets](https://docs.google.com/spreadsheets/d/1Y6WSbXNk_P0MV6bGyRcPi8gKUHHSR6rwLW71wpur1wM/edit#gid=0)
 
+## [Try training](https://github.com/reinforcement-learning-kr/2021_RLKR_Drone_Delivery_Challenge_with_Unity/blob/master/docs/run_with_ml-agents.md)
+
 ## Reference
 + [2021_RLKR_Drone_Delivery_Challenge_with_Unity](https://github.com/reinforcement-learning-kr/2021_RLKR_Drone_Delivery_Challenge_with_Unity)
 + [ml-agents](https://github.com/Unity-Technologies/ml-agents)
