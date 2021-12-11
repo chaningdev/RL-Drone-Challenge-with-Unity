@@ -17,13 +17,13 @@
 
 
 ## Models
-+ [Google Drive](https://drive.google.com/drive/folders/1rSW0sPKJGle1PeBhMLt9hs2hPtk8eQdy?usp=sharingd=0)
-
 + Training to get high scores [a01_1201]
 <img src="https://user-images.githubusercontent.com/62216628/145665627-907305b3-4b37-4e22-8889-1f4005fa80f5.png" width="600px">
 
 + Overfitting for reducing time [b07_1201_1316]
 <img src="https://user-images.githubusercontent.com/62216628/145665695-c9f022ca-1851-45a2-8fc1-d2854d57e0c7.png" width="600px">
+
++ [Google Drive](https://drive.google.com/drive/folders/1rSW0sPKJGle1PeBhMLt9hs2hPtk8eQdy?usp=sharingd=0)
 
 
 ## Test reports
