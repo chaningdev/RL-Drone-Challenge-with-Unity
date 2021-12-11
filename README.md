@@ -1,5 +1,5 @@
 # 2021 RL Korea Drone Delivery Challenge with Unity
-`2021.11.1` ~ `2021.11.30 `
+`2021.11.1` ~ `2021.12.07`
 
 **TEAM**: NewBe ([chaningdev](https://github.com/chaningdev), [20170375](https://github.com/20170375))
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
