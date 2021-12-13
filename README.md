@@ -31,8 +31,7 @@
 
 
 
-## Test reports
-+ [Google Sheets](https://docs.google.com/spreadsheets/d/1Y6WSbXNk_P0MV6bGyRcPi8gKUHHSR6rwLW71wpur1wM/edit?usp=sharing)
+## [Test reports](https://docs.google.com/spreadsheets/d/1Y6WSbXNk_P0MV6bGyRcPi8gKUHHSR6rwLW71wpur1wM/edit?usp=sharing)
 
 
 ## [Try training](https://github.com/reinforcement-learning-kr/2021_RLKR_Drone_Delivery_Challenge_with_Unity/blob/master/docs/run_with_ml-agents.md#training)
