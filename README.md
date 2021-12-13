@@ -32,22 +32,21 @@ Reward 100값 기준 MAX Reward = 300 + a (distanceRewardScale값에 따름)
     </ol>
 
 + 안정적 MAX Reward 달성을 위한 방식
-
     <ol>
-    <li> Curiosity Intrinsic Reward 추가</li>
-    <li> 5m Steps 마다 변화(Pulse)를 부여</li>
+        <li> Curiosity Intrinsic Reward 추가</li>
+        <li> 5m Steps 마다 변화(Pulse)를 부여</li>
     </ol>
 
 
 ## Models
 + Default + Curiosity Intrinsic Reward [c01]
-<img src="https://user-images.githubusercontent.com/84086347/145740730-ebd00286-f1cc-4876-95ca-d91b50ecb8f9.png" width ="500px">
-<img src = "https://user-images.githubusercontent.com/84086347/145741971-1f5daf94-d1f5-4b43-95d9-038cd5d5fe92.png" width = "500px")>
+<img src="https://user-images.githubusercontent.com/84086347/145740730-ebd00286-f1cc-4876-95ca-d91b50ecb8f9.png" width="500px">
+<img src="https://user-images.githubusercontent.com/84086347/145741971-1f5daf94-d1f5-4b43-95d9-038cd5d5fe92.png" width="500px">
 
 
 + Training to get high scores [a01_1201]
 <img src="https://user-images.githubusercontent.com/62216628/145665627-907305b3-4b37-4e22-8889-1f4005fa80f5.png" width="500px">
-<img src="https://user-images.githubusercontent.com/84086347/145742270-c9b2e20c-0f69-4b93-8814-40173923eb0a.png" width = "500px">
+<img src="https://user-images.githubusercontent.com/84086347/145742270-c9b2e20c-0f69-4b93-8814-40173923eb0a.png" width="500px">
 
 
 
