@@ -16,22 +16,16 @@
 ## Examples
 <img src="https://user-images.githubusercontent.com/62216628/145405453-79d3c2d8-922a-487a-b419-c7723b2faa63.gif">
 
-## Strategy
+## [Strategy](https://github.com/chaningdev/RL-Drone-Challenge-with-Unity/blob/main/docs/Strategy.md)
 + Add Curiosity Intrinsic Reward
 + Expand max steps per 5M steps. 
    <br> └ to pulse Beta/Learning Rate
 
 
 ## Models
-+ Default + Curiosity Intrinsic Reward [c01]
-
-<img src="https://user-images.githubusercontent.com/84086347/145755301-226e4a41-5ca3-4a4a-969a-23b720326b72.png" height="190px" > <img src="https://user-images.githubusercontent.com/84086347/145741971-1f5daf94-d1f5-4b43-95d9-038cd5d5fe92.png" height="190px" >
-
-
-
 + Training to get high scores [a01_1201]
 
-<img src="https://user-images.githubusercontent.com/62216628/145665627-907305b3-4b37-4e22-8889-1f4005fa80f5.png" height="190px"> <img src="https://user-images.githubusercontent.com/84086347/145742270-c9b2e20c-0f69-4b93-8814-40173923eb0a.png" height="190px">
+<img src="https://user-images.githubusercontent.com/62216628/145665627-907305b3-4b37-4e22-8889-1f4005fa80f5.png" width="500px">
 
 
 
